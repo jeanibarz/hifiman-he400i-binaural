@@ -1,5 +1,5 @@
 # hifiman-he400i-binaural
-Configuration for headphones Hifiman HE400i model 2017
+EqualizerAPO configuration to listen 7.1 surround setup using Hifiman HE400i model 2017 planar headphones.
 
 # Prerequisites / configuration / installation
 
