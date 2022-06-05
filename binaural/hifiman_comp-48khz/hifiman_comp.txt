@@ -1,0 +1,6 @@
+Channel: L R
+Preamp: -15 dB
+Channel: L
+Convolution: left.wav
+Channel: R
+Convolution: right.wav
